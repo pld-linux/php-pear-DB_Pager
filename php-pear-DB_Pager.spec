@@ -19,13 +19,13 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 This class handles all the stuff needed for displaying paginated
-results from a database query of Pear DB, including fetching only the
+results from a database query of PEAR DB, including fetching only the
 needed rows and giving extensive information for helping build an HTML
 or GTK query result display.
 
 %description -l pl
 Ta klasa obs³uguje wszystko co potrzebne do wy¶wietlania
-stronicowanych wyników z zapytania do bazy Pear DB, w³±cznie ze
+stronicowanych wyników z zapytania do bazy PEAR DB, w³±cznie ze
 ¶ci±ganiem tylko potrzebnych wierszy i dawaniem szczegó³owych
 informacji pomocnych przy wy¶wietlaniu wyników zapytania w HTML-u lub
 GTK.
