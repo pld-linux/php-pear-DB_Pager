@@ -25,7 +25,7 @@ results from a database query of PEAR DB, including fetching only the
 needed rows and giving extensive information for helping build an HTML
 or GTK query result display.
 
-This class has in PEAR status: %{_status}.
+In PEAR status of this package is: %{_status}.
 
 %description -l pl
 Ta klasa obs³uguje wszystko co potrzebne do wy¶wietlania
