@@ -2,8 +2,8 @@
 %define         _class          DB
 %define         _subclass       Pager
 %define		_pearname	%{_class}_%{_subclass}
-Summary:	%{_class}_%{_subclass} - Retrieve and return information of database result sets
-Summary(pl):	%{_class}_%{_subclass} - ¦ci±ganie i zwracanie informacji o zestawacanie rezultatów z baz danych
+Summary:	%{_pearname} - Retrieve and return information of database result sets
+Summary(pl):	%{_pearname} - ¦ci±ganie i zwracanie informacji o zestawacanie rezultatów z baz danych
 Name:		php-pear-%{_pearname}
 Version:	0.7
 Release:	2
