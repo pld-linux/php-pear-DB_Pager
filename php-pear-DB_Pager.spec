@@ -8,7 +8,7 @@ Summary:	%{_pearname} - retrieve and return information of database result sets
 Summary(pl):	%{_pearname} - pobieranie i zwracanie informacji o zestawacanie rezultatów z baz danych
 Name:		php-pear-%{_pearname}
 Version:	0.7
-Release:	3
+Release:	4
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
