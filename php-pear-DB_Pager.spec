@@ -1,7 +1,7 @@
 %include	/usr/lib/rpm/macros.php
 %define         _class          DB
 %define         _subclass       Pager
-%define		_subclass	stable
+%define		_status		stable
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - Retrieve and return information of database result sets
