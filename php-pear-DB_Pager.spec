@@ -6,7 +6,7 @@ Summary:	%{_class}_%{_subclass} - Retrieve and return information of database re
 Summary(pl):	%{_class}_%{_subclass} - ¦ci±ganie i zwracanie informacji o zestawacanie rezultatów z baz danych
 Name:		php-pear-%{_pearname}
 Version:	0.7
-Release:	1
+Release:	2
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
