@@ -23,7 +23,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This class handles all the stuff needed for displaying paginated
 results from a database query of PEAR DB, including fetching only the
 needed rows and giving extensive information for helping build an HTML
-or GTK query result display.
+or GTK+ query result display.
 
 In PEAR status of this package is: %{_status}.
 
@@ -32,7 +32,7 @@ Ta klasa obs³uguje wszystko co potrzebne do wy¶wietlania
 stronicowanych wyników z zapytania do bazy PEAR DB, w³±cznie ze
 ¶ci±ganiem tylko potrzebnych wierszy i dawaniem szczegó³owych
 informacji pomocnych przy wy¶wietlaniu wyników zapytania w HTML-u lub
-GTK.
+GTK+.
 
 Ta klasa ma w PEAR status: %{_status}.
 
