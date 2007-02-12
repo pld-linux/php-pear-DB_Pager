@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - retrieve and return information of database result sets
-Summary(pl):	%{_pearname} - pobieranie i zwracanie informacji o zestawacanie rezultat體 z baz danych
+Summary(pl.UTF-8):   %{_pearname} - pobieranie i zwracanie informacji o zestawacanie rezultat贸w z baz danych
 Name:		php-pear-%{_pearname}
 Version:	0.7
 Release:	6
@@ -29,11 +29,11 @@ or GTK+ query result display.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-Ta klasa obs硊guje wszystko co potrzebne do wy秝ietlania
-stronicowanych wynik體 z zapytania do bazy PEAR DB, w潮cznie ze
-禼i眊aniem tylko potrzebnych wierszy i dawaniem szczeg蟪owych
-informacji pomocnych przy wy秝ietlaniu wynik體 zapytania w HTML-u lub
+%description -l pl.UTF-8
+Ta klasa obs艂uguje wszystko co potrzebne do wy艣wietlania
+stronicowanych wynik贸w z zapytania do bazy PEAR DB, w艂膮cznie ze
+艣ci膮ganiem tylko potrzebnych wierszy i dawaniem szczeg贸艂owych
+informacji pomocnych przy wy艣wietlaniu wynik贸w zapytania w HTML-u lub
 GTK+.
 
 Ta klasa ma w PEAR status: %{_status}.
