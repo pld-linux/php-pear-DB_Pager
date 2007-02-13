@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - retrieve and return information of database result sets
-Summary(pl.UTF-8):   %{_pearname} - pobieranie i zwracanie informacji o zestawacanie rezultatów z baz danych
+Summary(pl.UTF-8):	%{_pearname} - pobieranie i zwracanie informacji o zestawacanie rezultatów z baz danych
 Name:		php-pear-%{_pearname}
 Version:	0.7
 Release:	6
