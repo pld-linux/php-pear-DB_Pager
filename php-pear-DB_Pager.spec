@@ -7,12 +7,12 @@
 Summary:	%{_pearname} - retrieve and return information of database result sets
 Summary(pl.UTF-8):	%{_pearname} - pobieranie i zwracanie informacji o zestawacanie rezultatów z baz danych
 Name:		php-pear-%{_pearname}
-Version:	0.7
-Release:	7
+Version:	0.7.2
+Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	ec4213fe39bdfab951b14433a6ae60c0
+# Source0-md5:	e01f5092a2a95488dae09f2c8d2823b0
 URL:		http://pear.php.net/package/DB_Pager/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
