@@ -1,14 +1,13 @@
 %include	/usr/lib/rpm/macros.php
 %define		_class		DB
 %define		_subclass	Pager
-%define		_status		stable
+%define		_status		beta
 %define		_pearname	%{_class}_%{_subclass}
-
 Summary:	%{_pearname} - retrieve and return information of database result sets
 Summary(pl.UTF-8):	%{_pearname} - pobieranie i zwracanie informacji o zestawacanie rezultatów z baz danych
 Name:		php-pear-%{_pearname}
 Version:	0.7.2
-Release:	1
+Release:	2
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
