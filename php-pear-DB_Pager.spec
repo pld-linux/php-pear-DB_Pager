@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_class		DB
 %define		_subclass	Pager
 %define		_status		beta
